@@ -7,3 +7,8 @@
 * respository owner handle
 * stargazers_count
 ```
+
+### Implemented with 
+
+* pure react
+* pure babel
